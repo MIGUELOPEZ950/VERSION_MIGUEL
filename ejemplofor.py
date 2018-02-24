@@ -1,4 +1,6 @@
 # **EJEMPLO**: codigo for 
 
-fron n seq 10:
-print(n)
+from n seq 10:
+     print(n)
+    
+## Los .py muestra ek color mas no ejecuta
