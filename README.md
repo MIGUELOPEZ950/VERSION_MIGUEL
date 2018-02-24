@@ -27,4 +27,4 @@ haga click [aqui](www.google.com) para ir a google
 Esten es otro tecto mas
 
 ## SE INCLUYE EL CAMBIO PAR MEZCLAR LAS RAMAS, ADEMAS SE ANEXA LA INFORMACION DE COMO COPIAR
-*ITALICA
+*italica*
