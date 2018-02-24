@@ -1,4 +1,4 @@
-# VERSIONES_MIGUEL
+# VERSIONES_MIGUEL_2
 Enseñanza de clase para que Github guarde el versionamiento de los códigos elaborados 
 
 **NEGRITAS** IMPRESION EN MISMA LINEA `print("HOLA")` se hace con tildes ladeada a la iquierda 
